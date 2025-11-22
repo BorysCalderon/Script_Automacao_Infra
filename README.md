@@ -19,6 +19,6 @@ Este script foi desenvolvido para monitorar o status de múltiplos serviços web
 2. Execute o script no terminal:
 ```bash
 python monitor_status.py
-
----
-Feito por Borys Ever Tito Calderon | Estudante de Sistemas de Informação - 5º Semestre
+```
+***
+Autor: **Borys Ever Tito Calderon** | Estudante de Sistemas de Informação - 5º Semestre
